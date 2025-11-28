@@ -1,0 +1,2 @@
+pandas
+Google-Play-Scraper
