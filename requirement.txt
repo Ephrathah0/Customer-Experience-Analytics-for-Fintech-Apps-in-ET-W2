@@ -1,2 +1,5 @@
 pandas
 Google-Play-Scraper
+matlabplot
+seaborn
+transformers torch
